@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Recherche par cle composee
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Recherche par cle composee
+    internal_properties : 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
+    configuration_id : 1750817589032542578
+    type : 1
+    generation_name : WD Recherche par cle composee.exe
+    version :
+     version : VI200027
+     autoincrement_version : false
+    icon_filename : .\clecomp.ico
+    language : 1
+ elements :
+  identifier : 0x4acc5373000d783c
+  elements :
+   -
+     name : ProceduresGlobales
+     identifier : 0x3db518f501e33c99
+     internal_properties : CAAAAAgAAABcOrTg34SsvwjLF8mFoNU2Lm11rY40KQRcmRrIoGA85Bw2YTPYKLWmVc/JN//xiX9JyQ==
+     physical_name : .\ProceduresGlobales.wdg
+     type : 7
+   -
+     name : TEST_CleComposee
+     identifier : 0x472f16c900074d7e
+     internal_properties : CAAAAAgAAAAtKQUZppObRBPivnwYjOrfW+qiijNxcfB0q+jyaKhilqa+gxH9w0o9PObQKOgY4NA4OA==
+     physical_name : .\TEST_CleComposee.wxt
+     type : 17
+   -
+     name : FEN_CleComposee
+     identifier : 0x3db518f42c7a3c8f
+     internal_properties : CAAAAAgAAADxTSl9yve/8P+O2hh0ufbzR3AiAusZOpDe/C8zMTndEynHlg7x12bZmIJ8RMwE/OzUXA==
+     physical_name : .\FEN_CleComposee.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Recherche par cle composee.ana\WD Recherche par cle composee.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Recherche par cle composee
+     identifier : 0x4acc5373001178d8
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
